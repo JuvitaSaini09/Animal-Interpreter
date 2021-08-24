@@ -9,7 +9,9 @@ const animalDictionary = {
   "🙊": "Speak-No-Evil Monkey",
   "🐜": "Ant",
   "🐶": "Dog Face",
-  "🐼": "Panda Face"
+  "🐼": "Panda Face",
+  "🐻": "Bear",
+  "🐦": "Bird"
 };
 //Object-->array
 var arrayOfEmoji = Object.keys(animalDictionary);
