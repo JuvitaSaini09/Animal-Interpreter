@@ -4,6 +4,9 @@
   font-weight: bold;
   text-align: center;
 }
+body {
+  background-color: lightgray;
+}
 input {
   padding-bottom: 10px;
   margin-top: 20px;
