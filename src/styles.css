@@ -13,6 +13,7 @@ input {
   margin-bottom: 10px;
   width: 80%;
   height: 30px;
+  border: 2px black solid;
 }
 h3 {
   margin-bottom: 10px;
