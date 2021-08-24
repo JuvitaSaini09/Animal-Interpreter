@@ -2,3 +2,9 @@
   font-family: sans-serif;
   text-align: center;
 }
+.animals {
+  font-size: 2rem;
+}
+.animal {
+  padding: 20px 50px;
+}
